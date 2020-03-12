@@ -1,0 +1,233 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{basheer2000artificial}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7feed378b1e5e00eac88b70ad884e73b}{%
+           family={Basheer},
+           familyi={B\bibinitperiod},
+           given={Imad\bibnamedelima A},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2fce7fd3a91d5eb5b6cfdcda3043e484}{%
+           family={Hajmeer},
+           familyi={H\bibinitperiod},
+           given={Maha},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bbc73e194bcbb7fd8a201517cbcdb7e6}
+      \strng{fullhash}{bbc73e194bcbb7fd8a201517cbcdb7e6}
+      \strng{bibnamehash}{bbc73e194bcbb7fd8a201517cbcdb7e6}
+      \strng{authorbibnamehash}{bbc73e194bcbb7fd8a201517cbcdb7e6}
+      \strng{authornamehash}{bbc73e194bcbb7fd8a201517cbcdb7e6}
+      \strng{authorfullhash}{bbc73e194bcbb7fd8a201517cbcdb7e6}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of microbiological methods}
+      \field{number}{1}
+      \field{title}{Artificial neural networks: fundamentals, computing, design, and application}
+      \field{volume}{43}
+      \field{year}{2000}
+      \field{pages}{3\bibrangedash 31}
+      \range{pages}{29}
+    \endentry
+    \entry{maynord2008boat}{report}{}
+      \name{author}{4}{}{%
+        {{hash=64f67948aabfdf4f19908630d418b8df}{%
+           family={Maynord},
+           familyi={M\bibinitperiod},
+           given={Stephen\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=131c6f82660070afa353cafbb4648b8a}{%
+           family={Biedenham},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=704d572ac4308a0a6ae1eb6d77abebbd}{%
+           family={Fischenich},
+           familyi={F\bibinitperiod},
+           given={Craig\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a4653a9ce5743cabfe153d87133ababd}{%
+           family={Zufelt},
+           familyi={Z\bibinitperiod},
+           given={Jon\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{institution}{3}{%
+        {Engineer Research}%
+        {Development Center Vicksburg Ms Coastal}%
+        {Hydraulics LAB}%
+      }
+      \strng{namehash}{d6e273e30653cb47b98b22afd52cacb5}
+      \strng{fullhash}{932994f546780b4e9dc1ba292561d504}
+      \strng{bibnamehash}{d6e273e30653cb47b98b22afd52cacb5}
+      \strng{authorbibnamehash}{d6e273e30653cb47b98b22afd52cacb5}
+      \strng{authornamehash}{d6e273e30653cb47b98b22afd52cacb5}
+      \strng{authorfullhash}{932994f546780b4e9dc1ba292561d504}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Boat-wave-induced bank erosion on the Kenai River, Alaska}
+      \field{type}{techreport}
+      \field{year}{2008}
+    \endentry
+    \entry{ozeren2016boat}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=d6d68a48c03c1482bfbda226437f5dc7}{%
+           family={Ozeren},
+           familyi={O\bibinitperiod},
+           given={Yavuz},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=791405a69acc13c9fc86457a89ad9de6}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=db3b58d9e801dcda95422377735c258a}{%
+           family={Altinakar},
+           familyi={A\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c972e07f6c846e07237014107b33e440}
+      \strng{fullhash}{c972e07f6c846e07237014107b33e440}
+      \strng{bibnamehash}{c972e07f6c846e07237014107b33e440}
+      \strng{authorbibnamehash}{c972e07f6c846e07237014107b33e440}
+      \strng{authornamehash}{c972e07f6c846e07237014107b33e440}
+      \strng{authorfullhash}{c972e07f6c846e07237014107b33e440}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{World Environmental and Water Resources Congress 2016}
+      \field{title}{Boat-Generated Wave and Turbidity Measurements: Connecticut River}
+      \field{year}{2016}
+      \field{pages}{390\bibrangedash 398}
+      \range{pages}{9}
+    \endentry
+    \entry{simon2016boat}{article}{}
+      \name{author}{1}{}{%
+        {{hash=87a5f3c3f4daed979abf31743aae5b39}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{87a5f3c3f4daed979abf31743aae5b39}
+      \strng{fullhash}{87a5f3c3f4daed979abf31743aae5b39}
+      \strng{bibnamehash}{87a5f3c3f4daed979abf31743aae5b39}
+      \strng{authorbibnamehash}{87a5f3c3f4daed979abf31743aae5b39}
+      \strng{authornamehash}{87a5f3c3f4daed979abf31743aae5b39}
+      \strng{authorfullhash}{87a5f3c3f4daed979abf31743aae5b39}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{River Flow 2016: Iowa City, USA, July 11-14, 2016}
+      \field{title}{Boat-generated wave measurements in the Connecticut River}
+      \field{year}{2016}
+      \field{pages}{313}
+      \range{pages}{1}
+    \endentry
+    \entry{uddinhudson2013}{book}{}
+      \name{author}{3}{}{%
+        {{hash=506e078fcb1eb784855249f8c48d2004}{%
+           family={Uddin},
+           familyi={U\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1824847bf3bebc59dd3dfb659f281bd7}{%
+           family={Hudson},
+           familyi={H\bibinitperiod},
+           given={W\bibnamedelima R},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=52668adc88e463e33118c037dbcaae25}{%
+           family={Haas},
+           familyi={H\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{9cc3344cab82aff91c06eb1ba1d4a912}
+      \strng{fullhash}{9cc3344cab82aff91c06eb1ba1d4a912}
+      \strng{bibnamehash}{9cc3344cab82aff91c06eb1ba1d4a912}
+      \strng{authorbibnamehash}{9cc3344cab82aff91c06eb1ba1d4a912}
+      \strng{authornamehash}{9cc3344cab82aff91c06eb1ba1d4a912}
+      \strng{authorfullhash}{9cc3344cab82aff91c06eb1ba1d4a912}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second Edition}
+      \field{isbn}{0071820116}
+      \field{pagetotal}{487 pages}
+      \field{title}{Public Infrastructure Asset Management}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{yasarer2012development}{article}{}
+      \name{author}{2}{}{%
+        {{hash=951ed2d885a34b55fbf81dd702877ba6}{%
+           family={Yasarer},
+           familyi={Y\bibinitperiod},
+           given={Hakan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9448735133ad04c9fe97765745fa2d8d}{%
+           family={Najjar},
+           familyi={N\bibinitperiod},
+           given={Yacoub},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5d75116b29949db957063b16e31e8c99}
+      \strng{fullhash}{5d75116b29949db957063b16e31e8c99}
+      \strng{bibnamehash}{5d75116b29949db957063b16e31e8c99}
+      \strng{authorbibnamehash}{5d75116b29949db957063b16e31e8c99}
+      \strng{authornamehash}{5d75116b29949db957063b16e31e8c99}
+      \strng{authorfullhash}{5d75116b29949db957063b16e31e8c99}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Development of Void Prediction Models for Kansas Concrete Mixes Used in PCC Pavement}
+      \field{volume}{8}
+      \field{year}{2012}
+      \field{pages}{473\bibrangedash 478}
+      \range{pages}{6}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

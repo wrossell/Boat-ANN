@@ -1,0 +1,9 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {section}{\numberline {1}{Problem 1}}{3}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}{Developing Characteristic Equation}}{3}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}{Deriving Equations for Solution and Calculation of Results}}{4}{subsection.1.2}% 
+\contentsline {section}{\numberline {2}{Problem 2}}{5}{section.2}% 
+\contentsline {section}{\numberline {3}{Problem 3}}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}{Calculating Positive Wave Depth}}{6}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}{Plotting}}{6}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}{Problem 4}}{6}{section.4}% 
