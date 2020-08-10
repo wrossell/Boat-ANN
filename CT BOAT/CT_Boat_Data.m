@@ -78,8 +78,8 @@ fnorm = @(x,mu,SD) exp(-(x-mu).^2./(2*SD^2))./(SD*sqrt(2*pi)); %Normal Distribut
 flogist = @(x,mu,SD,s) (1/(4*s))*(sech((x - mu)/(2*s))).^2; %Logistic Distribution
 fpoisson = @(k,mu) ((mu.^k)./(gamma(k+1)))*exp(-mu); %Poisson Distribution
 
-[NPDF,edgesPDF,binPDF] = histcounts(abs(Dist2Wed),numbins,'Normalization','PDF');
-% [NPDF,edgesPDF,binPDF] = histcounts(Dist2Wed,numbins,'Normalization','PDF');
+[NPDF,edgesPDF,binPDF] = histcounts(abs(Dist2Wed),numbins,'Normalization','PDF'); % IF DISTANCE FROM WEDNESDAY
+% [NPDF,edgesPDF,binPDF] = histcounts(wdays,ForceEdgeForWeekdays,'Normalization','PDF'); % IF BASED ON WEEKDAY
 
 
 % %%HOURLY
@@ -144,7 +144,8 @@ WeightsDaily = zeros(length(t),1);
 
 for i = 1:length(WeightsDaily)
     
-WeightsDaily(i) = NPDF(abs(Dist2Wed(i))+1);
+WeightsDaily(i) = NPDF(abs(Dist2Wed(i))+1); % IF DISTANCE FROM WEDNESDAY
+% WeightsDaily(i) = NPDF(wdays(i)); % IF BASED ON WEEKDAY
 
 end
 
@@ -163,7 +164,7 @@ legend(LEG,'Location','NorthWest')
 ax = gca;
 ax.XTick = [0,1,2,3];
 ax.XTickLabel = {'0','1','2','3'};
-exportfigforreport('Name',['PDF_',quicktype],'ext',{'png','pdf'},'options','-r150')
+% % exportfigforreport('Name',['PDF_',quicktype],'ext',{'png','pdf'},'options','-r150')
 
 %%
 DATE = datetime(y,m,d);
@@ -473,7 +474,7 @@ DateDate = DATE(index);
 %     end
 % end
 % find(FLAG == 1)
-
+% 
 % k = 1;
 % vvv = 21;
 % while k <= length(DATE)
