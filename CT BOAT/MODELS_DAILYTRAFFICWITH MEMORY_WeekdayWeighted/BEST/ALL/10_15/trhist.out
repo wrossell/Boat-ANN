@@ -1,0 +1,4 @@
+ Normalized SSE per output and pattern 
+Itr 	 HN 	 MARE-tr 	 MARE-ts 	 R2tr 	 R2ts 	 SSENtr 	 SSENts	 SSENcomb
+100 	 10 	       74.320 	        0.000 	   0.86374 	   0.00000 	    0.004282 	    -1.#IND00 	    -1.#IND00 
+200 	 10 	       72.598 	        0.000 	   0.88074 	   0.00000 	    0.003757 	    -1.#IND00 	    -1.#IND00 
